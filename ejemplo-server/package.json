@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo-server",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://www.returngis.net/2020/05/como-crear-eventos-propios-para-la-suscripcion-de-webhooks/"
+  },
+  "description": "Ejemplo de proveedor de WebHooks",
+  "main": "index.js",
+  "author": "Gisela Torres",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-webhooks": "^1.4.2"
+  }
+}
